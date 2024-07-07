@@ -1,9 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T02:17:37.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="OrO2kNBfmBfa9jSjzX4W" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T02:32:38.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="zls8kX6-uBmu3CNuptdw" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Nc3MFnW7DYe8lzxcgFCm">
-    <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-1" value="看护宝小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-1">
+          <mxGeometry x="45" y="70" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-2" value="看护宝后台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-2">
+          <mxGeometry x="45" y="80" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-2">
+          <mxGeometry x="45" y="290" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-2">
+          <mxGeometry x="50" y="332" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-24" value="校验token，并录入绑定关系" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="dD-0ZCfgkTVZ2vpiZr_o-23" parent="dD-0ZCfgkTVZ2vpiZr_o-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="312" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-3" value="看护宝" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-3">
+          <mxGeometry x="45" y="170" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-3">
+          <mxGeometry x="50" y="200" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-14" value="设备生成绑定二维码" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="dD-0ZCfgkTVZ2vpiZr_o-13" parent="dD-0ZCfgkTVZ2vpiZr_o-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-3">
+          <mxGeometry x="45" y="410" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-4" value="合作方App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="dD-0ZCfgkTVZ2vpiZr_o-4">
+          <mxGeometry x="45" y="250" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-5" value="用户发起门锁绑定" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="dD-0ZCfgkTVZ2vpiZr_o-6">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="40" y="150" as="sourcePoint" />
+            <mxPoint x="100" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-8" value="向后台请求授权token" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-6" target="dD-0ZCfgkTVZ2vpiZr_o-7">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="380" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-10" value="返回授权token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-7" target="dD-0ZCfgkTVZ2vpiZr_o-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="sourcePoint" />
+            <mxPoint x="210" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-12" value="下发action通知设备开始绑定流程，携带token" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-6" target="dD-0ZCfgkTVZ2vpiZr_o-11">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-17" value="用户通过合作方App扫码进行绑定" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="dD-0ZCfgkTVZ2vpiZr_o-15">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="710" y="325" as="sourcePoint" />
+            <mxPoint x="780" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-19" value="扫码获取token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-11" target="dD-0ZCfgkTVZ2vpiZr_o-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="340" as="sourcePoint" />
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-22" value="发起设备绑定请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-15" target="dD-0ZCfgkTVZ2vpiZr_o-18">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="570" y="390" as="sourcePoint" />
+            <mxPoint x="360" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-25" value="完成绑定" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-18" target="dD-0ZCfgkTVZ2vpiZr_o-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="sourcePoint" />
+            <mxPoint x="350" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD-0ZCfgkTVZ2vpiZr_o-27" value="通知设备结束二维码展示" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="dD-0ZCfgkTVZ2vpiZr_o-18" target="dD-0ZCfgkTVZ2vpiZr_o-26">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="334" y="500" as="sourcePoint" />
+            <mxPoint x="414" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
