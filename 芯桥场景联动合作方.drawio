@@ -107,7 +107,7 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jEGpJF-gH_l4fbvywMZ4-8" value="触发绑定的&lt;div&gt;芯桥设备联动&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jEGpJF-gH_l4fbvywMZ4-4" vertex="1" connectable="0">
+        <mxCell id="jEGpJF-gH_l4fbvywMZ4-8" value="触发绑定的&lt;div&gt;合作方设备联动&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jEGpJF-gH_l4fbvywMZ4-4" vertex="1" connectable="0">
           <mxGeometry x="0.3377" y="1" relative="1" as="geometry">
             <mxPoint x="-25" as="offset" />
           </mxGeometry>
