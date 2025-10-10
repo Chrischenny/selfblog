@@ -8,16 +8,16 @@
           <mxGeometry x="86" y="32" width="100" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="UMh7cZtgrliQHu8FxWp9-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-18" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="1210" as="geometry" />
+          <mxGeometry x="45" y="60" width="10" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="UMh7cZtgrliQHu8FxWp9-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-18" vertex="1">
-          <mxGeometry x="51" y="110" width="10" height="40" as="geometry" />
+          <mxGeometry x="51" y="92" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UMh7cZtgrliQHu8FxWp9-25" value="判断联动计划&lt;div&gt;在吃药的时间段&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-18" target="UMh7cZtgrliQHu8FxWp9-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56" y="90" as="sourcePoint" />
+            <mxPoint x="56" y="72" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="86" y="120" />
+              <mxPoint x="86" y="102" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,14 +105,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-22" value="触发人形" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontSize=10;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="UMh7cZtgrliQHu8FxWp9-23" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-22" value="触发人形" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontSize=10;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="56" y="112" as="sourcePoint" />
-            <mxPoint x="126" y="112" as="targetPoint" />
+            <mxPoint x="56" y="94" as="sourcePoint" />
+            <mxPoint x="131" y="94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-26" value="&lt;font&gt;携带&lt;b&gt;&lt;font style=&quot;color: rgb(102, 178, 255);&quot;&gt;场景唯一ID&lt;/font&gt;&lt;/b&gt;请求&lt;/font&gt;&lt;div&gt;&lt;font&gt;触发吃药备忘录对话&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=left;labelBackgroundColor=none;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="UMh7cZtgrliQHu8FxWp9-27" edge="1">
-          <mxGeometry x="-0.4703" width="80" relative="1" as="geometry">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-26" value="&lt;font&gt;发起吃药场景对话请求，携带参数：&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(102, 178, 255);&quot;&gt;&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;-&lt;/font&gt;&lt;font style=&quot;color: rgb(102, 178, 255);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;场景唯一ID&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; - 对话人姓名（别称）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; - 药品信息&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=left;labelBackgroundColor=none;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="UMh7cZtgrliQHu8FxWp9-27" edge="1">
+          <mxGeometry x="-0.7946" width="80" relative="1" as="geometry">
             <mxPoint x="141" y="208" as="sourcePoint" />
             <mxPoint x="236" y="208" as="targetPoint" />
             <mxPoint as="offset" />
