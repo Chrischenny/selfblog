@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
   <diagram name="第 1 页" id="FWQzg4xQXCFK9zbkQ_iG">
-    <mxGraphModel dx="1803" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UMh7cZtgrliQHu8FxWp9-18" value="设备" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="86" y="32" width="100" height="1300" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-18" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-18" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="1210" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-18" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-18" vertex="1">
           <mxGeometry x="51" y="110" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-25" value="判断联动计划&lt;div&gt;在吃药的时间段&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-18" target="UMh7cZtgrliQHu8FxWp9-24" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-25" value="判断联动计划&lt;div&gt;在吃药的时间段&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-18" target="UMh7cZtgrliQHu8FxWp9-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="90" as="sourcePoint" />
             <Array as="points">
@@ -24,13 +24,13 @@
         <mxCell id="UMh7cZtgrliQHu8FxWp9-19" value="智能AI云平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="276" y="32" width="110" height="1290" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};align=left;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};align=left;fontSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
           <mxGeometry x="50" y="170" width="10" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
           <mxGeometry x="55" y="200" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-29" value="获取对应&lt;div&gt;场景信息&lt;/div&gt;&lt;div&gt;判断合法性&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-19" target="UMh7cZtgrliQHu8FxWp9-28" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-29" value="&lt;div&gt;创建对话Task&lt;/div&gt;&lt;div&gt;以&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 179);&quot;&gt;TaskID&lt;/font&gt;&lt;/b&gt;为key&lt;/div&gt;创建Redis缓存" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" target="UMh7cZtgrliQHu8FxWp9-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="180" as="sourcePoint" />
             <Array as="points">
@@ -49,10 +49,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
           <mxGeometry x="55" y="1110" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-58" value="查询数据库&lt;div&gt;获取对应备忘录&lt;/div&gt;&lt;div&gt;的药品字符串&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-19" target="UMh7cZtgrliQHu8FxWp9-57" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-58" value="&lt;div&gt;根据&lt;font style=&quot;color: rgb(255, 102, 179);&quot;&gt;&lt;b&gt;TaskID&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;查询Redis缓存&lt;div&gt;获取对应吃药场景&lt;/div&gt;&lt;div&gt;的药品字符串&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" target="UMh7cZtgrliQHu8FxWp9-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="1090" as="sourcePoint" />
             <Array as="points">
@@ -60,10 +60,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" vertex="1">
           <mxGeometry x="55" y="1210" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-61" value="倒计时结束对话" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-19" target="UMh7cZtgrliQHu8FxWp9-60" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-61" value="倒计时结束对话" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-19" target="UMh7cZtgrliQHu8FxWp9-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="1190" as="sourcePoint" />
             <Array as="points">
@@ -74,19 +74,19 @@
         <mxCell id="UMh7cZtgrliQHu8FxWp9-20" value="火山RTC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="536" y="30" width="100" height="1292" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-20" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-20" vertex="1">
           <mxGeometry x="45" y="370" width="10" height="890" as="geometry" />
         </mxCell>
         <mxCell id="UMh7cZtgrliQHu8FxWp9-21" value="火山方舟大模型" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="676" y="32" width="100" height="1290" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-21" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-21" vertex="1">
           <mxGeometry x="45" y="379" width="10" height="881" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-21" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-21" vertex="1">
           <mxGeometry x="50" y="720" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-47" value="触发&lt;div&gt;function_calling&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-21" target="UMh7cZtgrliQHu8FxWp9-46" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-47" value="触发&lt;div&gt;function_calling&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-21" target="UMh7cZtgrliQHu8FxWp9-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="700" as="sourcePoint" />
             <Array as="points">
@@ -94,10 +94,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UMh7cZtgrliQHu8FxWp9-21" vertex="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-21" vertex="1">
           <mxGeometry x="50" y="1010" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-55" value="触发&lt;div&gt;function_calling&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;" parent="UMh7cZtgrliQHu8FxWp9-21" target="UMh7cZtgrliQHu8FxWp9-54" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-55" value="触发&lt;div&gt;function_calling&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="UMh7cZtgrliQHu8FxWp9-21" target="UMh7cZtgrliQHu8FxWp9-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="990" as="sourcePoint" />
             <Array as="points">
@@ -105,79 +105,80 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-22" value="触发人形" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontSize=10;" parent="1" target="UMh7cZtgrliQHu8FxWp9-23" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-22" value="触发人形" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontSize=10;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="UMh7cZtgrliQHu8FxWp9-23" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="56" y="112" as="sourcePoint" />
             <mxPoint x="126" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-26" value="&lt;font&gt;携带&lt;b&gt;&lt;font style=&quot;color: rgb(102, 178, 255);&quot;&gt;场景唯一ID&lt;/font&gt;&lt;/b&gt;请求&lt;/font&gt;&lt;div&gt;&lt;font&gt;触发吃药备忘录对话&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=left;labelBackgroundColor=none;fontSize=9;" parent="1" target="UMh7cZtgrliQHu8FxWp9-27" edge="1">
-          <mxGeometry x="-0.7143" width="80" relative="1" as="geometry">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-26" value="&lt;font&gt;携带&lt;b&gt;&lt;font style=&quot;color: rgb(102, 178, 255);&quot;&gt;场景唯一ID&lt;/font&gt;&lt;/b&gt;请求&lt;/font&gt;&lt;div&gt;&lt;font&gt;触发吃药备忘录对话&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=left;labelBackgroundColor=none;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="UMh7cZtgrliQHu8FxWp9-27" edge="1">
+          <mxGeometry x="-0.4703" width="80" relative="1" as="geometry">
             <mxPoint x="141" y="208" as="sourcePoint" />
             <mxPoint x="236" y="208" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-34" value="发起对话请求，携带的关键参数：&lt;div&gt;1. 选择使用方舟大模型&lt;/div&gt;&lt;div&gt;2. 欢迎语：&quot;你好，请问你是${联系人}&quot;&lt;/div&gt;&lt;div&gt;3. 设置&quot;回答身份&quot;Tools(Function_calling)&lt;/div&gt;&lt;div&gt;&amp;nbsp; - 描述：获取用户对他身份的答案&lt;/div&gt;&lt;div&gt;&amp;nbsp; - 参数：枚举：[&#39;是’， ‘否’]&lt;/div&gt;&lt;div&gt;4. 设置&quot;吃药询问&quot;tools(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Function_calling)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; - 描述：获取应该吃什么药的答案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(102, 178, 255), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 参数：写死参数为&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(102, 178, 255), rgb(255, 255, 255));&quot;&gt;场景唯一ID&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. 设置智能AI云平台的function_calling的回调&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;align=left;fontSize=9;labelBackgroundColor=none;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-34" value="发起对话请求，关键参数：&lt;div&gt;1. 选择使用方舟大模型&lt;/div&gt;&lt;div&gt;2. 欢迎语：&quot;你好，请问你是${联系人}&quot;&lt;/div&gt;&lt;div&gt;3. 设置&quot;回答身份&quot;Tools(Function_calling)&lt;/div&gt;&lt;div&gt;&amp;nbsp; - 描述：获取用户对他身份的答案&lt;/div&gt;&lt;div&gt;&amp;nbsp; - 参数：枚举：[&#39;是’， ‘否’]&lt;/div&gt;&lt;div&gt;4. 设置&quot;吃药询问&quot;tools(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Function_calling)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; - 描述：获取应该吃什么药的答案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(102, 178, 255), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- 参数：写死参数为&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 102, 179);&quot;&gt;Task&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 102, 179);&quot;&gt;ID&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. 设置智能AI云平台的function_calling的回调&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;align=left;fontSize=9;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry x="-0.8367" y="5" width="80" relative="1" as="geometry">
             <mxPoint x="336" y="404" as="sourcePoint" />
             <mxPoint x="581" y="404" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-36" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-36" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="581" y="462.0000000000002" as="sourcePoint" />
             <mxPoint x="336" y="462.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-38" value="通知加入房间" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-38" value="通知加入房间" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="591" y="415.0000000000002" as="sourcePoint" />
             <mxPoint x="721" y="415.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-39" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-39" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="721" y="450.5000000000002" as="sourcePoint" />
             <mxPoint x="591" y="450.5000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-40" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="UMh7cZtgrliQHu8FxWp9-23" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-40" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="UMh7cZtgrliQHu8FxWp9-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="326" y="472" as="sourcePoint" />
             <mxPoint x="246" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-41" value="加入房间" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-41" value="加入房间" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry x="0.1591" width="80" relative="1" as="geometry">
             <mxPoint x="141" y="522.0000000000002" as="sourcePoint" />
             <mxPoint x="581" y="522.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-42" value="加入房间" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-42" value="加入房间" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry x="0.004" width="80" relative="1" as="geometry">
             <mxPoint x="721" y="540.5000000000002" as="sourcePoint" />
             <mxPoint x="591" y="540.5000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UMh7cZtgrliQHu8FxWp9-43" value="开启对话" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="116" y="562" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-44" value="发送欢迎语，询问身份" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-44" value="发送欢迎语，询问身份" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="721" y="652.0000000000002" as="sourcePoint" />
             <mxPoint x="141" y="652.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-45" value="用户回复" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-45" value="用户回复" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="141" y="712" as="sourcePoint" />
             <mxPoint x="721" y="712" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-48" value="通知服务器触发的tool及参数结果" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;align=center;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-48" value="通知服务器触发的tool及参数结果" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="721.0000000000002" y="812.0000000000002" as="sourcePoint" />
             <mxPoint x="335.9999999999998" y="812.0000000000002" as="targetPoint" />
@@ -189,43 +190,43 @@
             <mxPoint x="412" y="742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-52" value="通过TSS发送播报结果，提示用户按时吃药" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-52" value="通过TSS发送播报结果，提示用户按时吃药" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="335.9999999999998" y="972" as="sourcePoint" />
             <mxPoint x="721.0000000000002" y="972" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-53" value="用户询问应该吃什么药" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-53" value="用户询问应该吃什么药" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="141" y="1012" as="sourcePoint" />
             <mxPoint x="721.0000000000002" y="1012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-56" value="通知服务器触发的tool，携带&lt;b&gt;&lt;font style=&quot;color: rgb(102, 178, 255);&quot;&gt;场景唯一ID&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-56" value="通知服务器触发的tool，携带&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 179);&quot;&gt;TaskID&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="721.0000000000002" y="1102" as="sourcePoint" />
             <mxPoint x="335.9999999999998" y="1102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-59" value="通过TSS发送播报的药品内容" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-59" value="通过TSS发送播报的药品内容" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="335.9999999999998" y="1202" as="sourcePoint" />
             <mxPoint x="721.0000000000002" y="1202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-63" value="结束对话" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;fontSize=9;" parent="1" source="UMh7cZtgrliQHu8FxWp9-60" target="UMh7cZtgrliQHu8FxWp9-35" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-63" value="结束对话" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="UMh7cZtgrliQHu8FxWp9-60" target="UMh7cZtgrliQHu8FxWp9-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="452" y="1282" as="sourcePoint" />
             <mxPoint x="372" y="1282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-64" value="结束对话" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-64" value="结束对话" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325.9999999999998" y="1292" as="sourcePoint" />
             <mxPoint x="141" y="1292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UMh7cZtgrliQHu8FxWp9-65" value="退出房间" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="UMh7cZtgrliQHu8FxWp9-65" value="退出房间" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="132" y="1302" as="sourcePoint" />
             <mxPoint x="52" y="1302" as="targetPoint" />
